@@ -6,6 +6,8 @@
  
 <div align="center">
   
+ <img src="https://user-images.githubusercontent.com/64718956/95015589-5e66e100-066b-11eb-908b-d46fcb1bacb6.png" height="10px">
+  
  ### 📫 Reach me at:
 
  [![Twitter Badge](https://img.shields.io/badge/-@deadlydestny-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/deadlydestny)](https://twitter.com/deadlydestny)
