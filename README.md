@@ -10,7 +10,7 @@
   
  ### 📫 Reach me at:
 
- [![Twitter Badge](https://img.shields.io/badge/-@deadlydestny-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/deadlydestny)](https://twitter.com/deadlydestny)
+ [![Twitter Badge](https://img.shields.io/badge/-@shikha5raj-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shikha5raj)](https://twitter.com/shikha5raj)
  [![Linkedin Badge](https://img.shields.io/badge/-Shikha%20Rajpoot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shikharajpoot/)](https://www.linkedin.com/in/shikharajpoot/)
  
  
